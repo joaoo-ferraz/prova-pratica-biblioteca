@@ -15,7 +15,7 @@ package siga;
  *   EMPRESTADO  --restituir-->  ENCERRADO
  *   ENCERRADO e final: recusa as tres operacoes.
  */
-public class Emprestimo {
+public class Emprestimon {
 
     private final Leitor solicitante;
     private final Exemplar item;
